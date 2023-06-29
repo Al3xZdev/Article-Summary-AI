@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col'>
       <nav className='flex justify-between items-center w-full mb-10 pt-3'>
-        <img src={logo} alt='Automatedai2.png' className='w-28 object-contain' />
+        <img src={logo} alt='Automatedai2.ico' className='w-28 object-contain' />
 
         <button
           type='button'
