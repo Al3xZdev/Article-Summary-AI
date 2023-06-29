@@ -1,7 +1,7 @@
 import linkIcon from './link.svg'
 import loader from './loader.svg'
 import copy from './copy.svg'
-import logo from './Automatedai2.png'
+import logo from '../../public/Favicon1.ico'
 import tick from './tick.svg'
 
 export {
