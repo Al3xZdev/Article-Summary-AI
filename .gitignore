@@ -28,3 +28,14 @@ dist-ssr
 
 # env
 .env
+
+biling.js
+billing.html
+contactus.html
+faq.html
+newsletter.html
+pricing.html
+registering.html
+server.js
+signin.css
+style.css
