@@ -10,11 +10,11 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("pricing.html", "_blank")
+            window.open("https://twitter.com/AutomatedAi1", "_blank")
           }
           className='black_btn'
         >
-          Get started
+          Twitter
         </button>
       </nav>
 
